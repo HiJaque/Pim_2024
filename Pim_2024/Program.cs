@@ -17,7 +17,7 @@ namespace Pim_2024
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form_login());
+            Application.Run(new Form_Venda());
         }
     }
 }
